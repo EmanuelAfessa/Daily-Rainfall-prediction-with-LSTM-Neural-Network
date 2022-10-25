@@ -1,7 +1,7 @@
 # Accumulated daily rainfall forecasting on the D day on observation ground stations
 
 ## A. Adressed problem 
-We are adressinng a forecasting problem. We are attempting to predict the accumulated rainfall on a given day D by utilising a set of explanatory features from days D-1. Explanatory variables include dd (wind direction), ff (wind speed), hu (humidity), td (dew point temperature). 
+We are adressingg a forecasting problem. We are attempting to predict the accumulated rainfall on a given day D by utilising a set of explanatory features from day D-1. Explanatory variables include dd (wind direction), ff (wind speed), hu (humidity), td (dew point temperature). 
 
 ## B. Methodology and implementation
 
